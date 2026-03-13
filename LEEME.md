@@ -15,13 +15,18 @@ Este es un proyecto web que utiliza **HTML, CSS y JavaScript.**
 
 ---
 
-### Opción 2: ¡Yo lo personalizo por ti! ✨
-¿No sabes programar? ¡No te preocupes! Yo me encargo de todo.
+### Opción 2: ¡Yo lo personalizo por ti con la Membresía! ✨
+¿No sabes programar? ¡No te preocupes! Con la membresía de personalización, yo hago todo el trabajo por ti:
 
-* **Personalizo** el código con tus fotos, nombres, fechas y mensajes.
-* **Lo subo** a internet y te entrego un link listo para enviar.
+* ✅ **Personalizo** el código con tus fotos, nombres, fechas y mensajes.
+* ✅ **Lo subo** a internet y te entrego un link listo para compartir.
 
-Simplemente contáctanos y nosotros hacemos el resto.
+**👇 ¡Haz clic en el botón de abajo para ir a la membresía y empezar! 👇**
 
-**Contacto para personalizar:**
-* **WhatsApp:** [+52 1 55 6628 1018](https://wa.me/5215566281018)
+[**>> Comprar Membresía de Personalización <<**](https://buymeacoffee.com/alexx.dev/membership)
+
+---
+
+**¿Tienes alguna pregunta?** ¡Escríbeme sin compromiso!
+
+* **Contacto para dudas:** [+52 1 55 6628 1018](https://wa.me/5215566281018)
